@@ -3,8 +3,8 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/guide.html",
-      "email_feedback_and_report": "youremail@gmail.com",
+      "privacy_policy_url": "https://raw.githubusercontent.com/ahdasurur/tester/main/privacy_policy.html",
+      "email_feedback_and_report": "kuroashinoamex@gmail.com",
       "webview_cache": true,
       "post_list_in_large_style": false,
       "show_post_list_header": true,
@@ -16,36 +16,36 @@
       "enable_exit_dialog": true,
       "enable_app_protection": false,
       "enable_dark_mode_as_default_theme": false,
-      "base64_license_key": ""
+      "base64_license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsWFrR+u/1PDDIDH+kd2qb711slJlMLmhMfS1z+Pr86TivzEtCApXr/i+h5YdAk3Qq9JzBJ8qr42Rx8I3uJMQqOTvHRIqu3VjVP5PMCXAmUoIqIi27obPPR8Ta6M940MT0PfhWk5IMrU7Cz+6DulDF02uQ7LHIvWFZnv+ZPfMk7m9kOMZQTgeCUd6rp2mGFCTgVlm3Y+zH82EPJpBKXZhhsc0LSCZO1jff6H/yTSKk8Yk0y9CvMeVQLcAD1dHn4f3a1Pbd37RvQk2jefzauf8+JESJfdAsBVgDKcUDOKOx3i3TCKOYdJoYx5tP39CkcWp/aVuuK9HuFgD80EqZlCPlwIDAQAB"
     }
   ],
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "admob",
-      "backup_ad": "none",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "main_ad": "applovin",
+      "backup_ad": "admob",
+      "admob_banner_unit_id": "ca-app-pub-1331143855608995/7709868357",
+      "admob_interstitial_unit_id": "ca-app-pub-1331143855608995/5184272201",
+      "admob_native_unit_id": "ca-app-pub-1331143855608995/6396786687",
+      "admob_app_open_unit_id": "ca-app-pub-1331143855608995/3871190534",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "fan_banner_unit_id": "363558482957070_363558896290362",
+      "fan_interstitial_unit_id": "363558482957070_363558982957020",
+      "fan_native_unit_id": "363558482957070_394146089898309",
       "startapp_app_id": "0",
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
-      "applovin_banner_unit_id": "0",
-      "applovin_interstitial_unit_id": "0",
-      "applovin_native_manual_unit_id": "0",
-      "applovin_open_ad_unit_id": "0",
-      "applovin_banner_zone_id": "0",
-      "applovin_banner_mrec_zone_id": "0",
-      "applovin_interstitial_zone_id": "0",
+      "applovin_banner_unit_id": "865d1e1b3376a245",
+      "applovin_interstitial_unit_id": "8b3e552b9dd495b5",
+      "applovin_native_manual_unit_id": "955d40c2b557f201",
+      "applovin_open_ad_unit_id": "e1a0b4e58f845707",
+      "applovin_banner_zone_id": "865d1e1b3376a245",
+      "applovin_banner_mrec_zone_id": "7d357e37fef6d35b",
+      "applovin_interstitial_zone_id": "8b3e552b9dd495b5",
       "ironsource_app_key": "85460dcd",
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
@@ -75,164 +75,163 @@
   "categories": [
     {
       "id": 1,
-      "name": "Apps",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/apps.png"
+      "name": "Speederx8",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/spd%202.png"
     },
     {
       "id": 2,
-      "name": "Game",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/game.png"
+      "name": "Trick",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/lg%20new%202.2.png"
     },
     {
       "id": 3,
-      "name": "OS",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/os.png"
+      "name": "Tutorial",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/lg%202.4.png"
     },
     {
       "id": 4,
-      "name": "Coding",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/programming.png"
+      "name": "RTP",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/bg%201.1.3.png"
     },
     {
       "id": 5,
       "name": "Mods",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/mods.png"
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/bg%201.1.2_1.png"
     },
     {
       "id": 6,
-      "name": "How To",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png"
+      "name": "Jackpot",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/bg%201.1.2.png"
     },
     {
       "id": 7,
-      "name": "Tips & Trick",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/tips-trick.png"
+      "name": "Tip",
+      "image": "https://raw.githubusercontent.com/ahdasurur/guidejson/main/image/bg%20new%201%20(1).png"
     },
     {
       "id": 8,
-      "name": "Lifestyle",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/lifestyle.png"
+      "name": "Guide",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/6%20(1).png"
     },
     {
       "id": 9,
-      "name": "Android",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/android.png"
-    }
+      "name": "Bonus",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/1.3.png"
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Trick",
-      "title": "Free Fire: Top 10 best M1014 gun skins in the game",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/free-fire.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/free-fire.html",
+      "category": "Guide",
+      "title": "RP Higgs Domino Island",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/lg%20new%202.2.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_6.html",
       "video": ""
     },
     {
       "id": 2,
-      "category": "Lifestyle",
-      "title": "IKEA Malm Bed Building Tips - How to Build IKEA Furniture",
-      "image": "https://img.youtube.com/vi/EyH2rXSE6mM/mqdefault.jpg",
-      "content": "<p>This tutorial video is the exact opposite of the previous one about becoming more confident in public speaking. This is a finely drawn topic. It’s not how to put a bed frame together, it’s how to put the IKEA Malm bed frame together.</p><p>There’s no voiceover, the only audio in this tutorial video is the background music. But the audience is never left feeling lost for instruction. There are strategic callouts, which give tips and names of the specific parts being used. It’s a clever solution to a potentially dull voiceover detailing where to put screws.</p>",
-      "video": "https://www.youtube.com/watch?v=EyH2rXSE6mM&t=18s"
+      "category": "Speederx8, Bonus, Jackpot",
+      "title": "Speeder",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/1.3.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_3.html",
+      "video": ""
     },
     {
       "id": 3,
-      "category": "Coding",
-      "title": "Object Oriented Programming Breakdown for Beginners",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/programming.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/programming.html",
+      "category": "RTP, Mods",
+      "title": "How To GrandJacpot",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/bg%201.1.2.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_6.html",
       "video": ""
     },
     {
       "id": 4,
-      "category": "Game",
-      "title": "Mobile Legends on PC Bruno Guide: Best Build, Emblem and Gameplay Tips",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/mobile-legends.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/mobile-legends.html",
+      "category": "Trick, Tutorial",
+      "title": "How To Maxwin",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/bg%201.1.2_1.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_4.html",
       "video": ""
     },
     {
       "id": 5,
-      "category": "Game2",
-      "title": "PUBG New State on PC: Global launch time based on your country",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/pubg.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/pubg.html",
+      "category": "Tip",
+      "title": "How To Read A RTP",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/bg%201.1.3.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_1.html",
       "video": ""
     },
     {
       "id": 6,
-      "category": "Tips",
-      "title": "Awaken: Chaos Era: The complete Reroll guide and tips",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/chaos-era.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/chaos-era.html",
+      "category": "Tip, Speederx8",
+      "title": "Cara Gacorin Akun",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/bg%20new%201%20(1).png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_5.html",
       "video": ""
     },
     {
       "id": 7,
-      "category": "OS, Apps",
-      "title": "How to build your own custom Android ROM",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/android.jpg",
-      "content": "file:///android_asset/how-to-build-your-own-custom-android-rom.html",
+      "category": "Guide",
+      "title": "What IS Higgs",
+     "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/1%20bg%20new.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_3.html",
       "video": ""
     },
     {
       "id": 8,
-      "category": "Apps",
-      "title": "How to hide your iPhone photos in iOS 16",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/ios.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/ios.html",
+      "category": "RTP",
+      "title": "How to 6 Uncles",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/1.0.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_2.html",
       "video": ""
     },
     {
       "id": 9,
       "category": "Mods",
-      "title": "The Witcher 3 Complete Edition Mods List",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/the-witcher.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/the-witcher.html",
+      "title": "Bocoran Maxwin",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/bg%201.1.2.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_1.html",
       "video": ""
     },
     {
       "id": 10,
-      "category": "Lifestyle",
-      "title": "Holiday survival guide: How to seize the season before it seizes you",
-      "image": "https://img.youtube.com/vi/c-Rq61sXpV0/mqdefault.jpg",
-      "content": "<p>If you&rsquo;re dreading decking the halls with your relatives this year, there are seasonal survival tips that may help you get through the holidays.</p><p>If you feel holidays are more of a hassle than a hallmark movie, you&rsquo;re not alone. According to a recent poll, at least 75 percent of Americans admit they need to escape family this time of year. But there are ways to make the most of the season.</p><p>On average, Americans will stay with family for three and a half days and nearly 40 percent say finding sleeping arrangements is one of the most stressful parts of preparing for out-of-town family.</p><p>Other top concerns are lack of privacy, family getting on your nerves, and drama between family members.</p><p>&ldquo;Most of us want harmony in our families,&rdquo; says Family &amp; Marriage Therapist, Cherlette McCullough.</p><p>One of the most important sanity savers is to plan early, know who&rsquo;s traveling, and what the sleeping arrangements are.</p><p>Set realistic expectations for yourself. When you adjust your mindset to something that&rsquo;s realistic, you&rsquo;re already ahead of the game. It&rsquo;s important to find a balance between being generous and hospitable. Most importantly, keep the lines of communication open with your significant other about how you are feeling.</p><p>&ldquo;If you&rsquo;re feeling that you&rsquo;re not accepted, I would say the first thing too, talk to your mate about that,&rdquo; said McCullough.</p><p>One last tip, try outsourcing some of your big holiday meals. Experts say order in all of the holiday sides and trimmings and just focus on the turkey or ham. That way you spend less time in the kitchen and more time enjoying the season.</p>",
-      "video": "https://www.youtube.com/watch?v=c-Rq61sXpV0"
+      "category": "Bonus",
+      "title": "Cara Double Grand Jackpoot",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/bg%20new%201%20(1).png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_6.html",
+      "video": ""
     },
     {
       "id": 11,
-      "category": "Lifestyle",
-      "title": "Your Step-by-Step Guide to Filling Out a Money Order",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/posts/money-order.jpg",
-      "content": "https://raw.githubusercontent.com/solodroidev/content/uploads/html/guide/money-order.html",
+      "category": "Speederx8, Bonus",
+      "title": "Mendapatkan Bonus Spin",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/bg%201.1.4.png",
+      "content": "https://raw.githubusercontent.com/ahdasurur/tester/main/guide_4.html",
       "video": ""
     }
   ],
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "title": "Speeder Vpn X8",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/spd%202.png",
+      "url": "https://play.google.com/store/apps/details?id=com.ratria.aksjhdow"
     },
     {
       "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+      "title": "Speeder Free Major",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/lg%20new%202.2.png",
+      "url": "https://play.google.com/store/apps/details?id=com.ratria.qwkyc"
     },
     {
       "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
+      "title": "Speeder Jacpot",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/lg%202.4.png",
+      "url": "https://play.google.com/store/apps/details?id=com.ratria.qwbkf"
     },
     {
       "id": 4,
-      "title": "Wallpaper Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-wallpaper-json-android-wallpaper-app-212"
+      "title": "Speeder Free Chip Island",
+      "image": "https://raw.githubusercontent.com/ahdasurur/tester/main/nw%20bg.png",
+      "url": "https://play.google.com/store/apps/details?id=com.ratria.asdbkqwganti"
     }
   ]
 }
